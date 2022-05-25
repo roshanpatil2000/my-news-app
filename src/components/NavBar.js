@@ -69,11 +69,6 @@ export class NavBar extends Component {
                     Technology
                   </Link>
                 </li>
-                <li className="nav-item">
-                  <Link className="nav-link" to="/apple">
-                    Apple
-                  </Link>
-                </li>
               </ul>
             </div>
           </div>

@@ -68,12 +68,6 @@ export default class App extends Component {
                 category="technology"
               />
             </Route>
-            <Route exact path="/apple">
-              <News key="apple" 
-              pageSize={6} 
-              country="in" 
-              category="apple" />
-            </Route>
           </Switch>
         </Router>
       </div>
